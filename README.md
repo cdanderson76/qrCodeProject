@@ -1,5 +1,7 @@
 # qrCodeProject
 This is the desktop solution for the Frontend Mentor QR Code Project
+![QR Code](https://github.com/cdanderson76/qrCodeProject/assets/138369806/a3c0c833-4456-49f5-bc9c-214d44fa3365)
+
 
 I think that the key for me to complete this project was using Figma to get the actual dimensions for the card.  With this, I think I was able to code the project more accurately.  The first time I tried this, I didn't have the dimensions and wasn't using Figma, so I found it to be a really big help once I started using it.
 
