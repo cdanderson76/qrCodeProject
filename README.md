@@ -1,5 +1,5 @@
-# qrCodeProject
 This is the desktop solution for the Frontend Mentor QR Code Project
+
 ![QR Code](https://github.com/cdanderson76/qrCodeProject/assets/138369806/a3c0c833-4456-49f5-bc9c-214d44fa3365)
 
 
